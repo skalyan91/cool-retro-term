@@ -103,5 +103,14 @@ QtObject {
             baseScaling: 3.5
             fontWidth: 0.8
         }
+        ListElement {
+            name: "DEPARTURE_MONO"
+            text: "Departure Mono (Modern)"
+            source: "fonts/modern-departure-mono/DepartureMono-Regular.otf"
+            lineSpacing: 2
+            pixelSize: 6
+            baseScaling: 3.5
+            fontWidth: 0.6
+        }
     }
 }
