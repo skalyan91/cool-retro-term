@@ -109,7 +109,7 @@ QtObject {
             source: "fonts/modern-departure-mono/DepartureMono-Regular.otf"
             lineSpacing: 1
             pixelSize: 11
-            baseScaling: 3.25
+            baseScaling: 3.29
             fontWidth: 1
         }
     }
