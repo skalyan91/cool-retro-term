@@ -109,7 +109,7 @@ QtObject {
             source: "fonts/modern-unscii/unscii-16-full.otf"
             lineSpacing: 1
             pixelSize: 16
-            baseScaling: 2.9
+            baseScaling: 2.89
             fontWidth: 1
         }
     }
